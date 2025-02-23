@@ -23,7 +23,7 @@ public class LogAspect {
     private static final Logger logger = LoggerFactory.getLogger(LogAspect.class);
 
     // 定义切点，这里匹配所有 public 方法，你可以根据实际情况修改切点表达式
-    @Pointcut("execution(public * your.package.interfaces.*.*(..))") // 替换 your.package.interfaces 为你的接口所在包
+    @Pointcut("execution(public * xyz.vvrf.sci.*.*(..))") // 替换 your.package.interfaces 为你的接口所在包
     public void interfaceMethodPointcut() {
     }
 
