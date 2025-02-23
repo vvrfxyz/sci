@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN"> <!-- 1. 调整 status 级别 -->
+    <Properties>
+        <!-- 定义日志格式 -->
+        <Property name="log.pattern">%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %X %tid %-5level %logger{36} (%class{1.}.%method) - %msg%n</Property> <!-- 2. 优化时间格式，去除多余空行 -->
+        <!-- 定义所有日志文件名变量 -->
+        <Property name="file.all.filename">log/all.log</Property>
+        <Property name="file.all.pattern">log/all.%d{yyyy-MM-dd}.%i.log.gz</Property> <!-- 3. 优化 all 日志文件切割策略和压缩 -->
+        <!-- 定义错误日志文件名变量 -->
+        <Property name="file.err.filename">log/err.log</Property>
+        <Property name="file.err.pattern">log/err.%d{yyyy-MM-dd}.%i.log.gz</Property> <!-- 3. 优化 err 日志文件切割策略和压缩 -->
+    </Properties>
+    <!-- 定义Appender，即目的地 -->
+    <Appenders>
+        <!-- 定义输出到屏幕 -->
+        <Console name="console" target="SYSTEM_OUT">
+            <!-- 日志格式引用上面定义的log.pattern -->
+            <PatternLayout pattern="${log.pattern}" />
+            <!-- 生产环境建议只输出 WARN 级别及以上的日志到控制台，减少控制台输出量 -->
+            <ThresholdFilter level="INFO" onMatch="ACCEPT" onMismatch="DENY"/> <!-- 5. 调整 console 输出级别 -->
+        </Console>
+        <!-- 定义输出到所有日志文件 -->
+        <RollingFile name="all" bufferedIO="true" fileName="${file.all.filename}" filePattern="${file.all.pattern}">
+            <PatternLayout pattern="${log.pattern}" />
+            <Policies>
+                <!-- 根据时间和文件大小自动切割日志 -->
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/> <!-- 6. 调整 all 日志切割策略为按天切割 -->
+                <SizeBasedTriggeringPolicy size="500 MB" /> <!-- 7. 增大 all 日志文件大小限制 -->
+            </Policies>
+            <!-- 保留最近30天的日志，根据实际磁盘空间和需求调整 -->
+            <DefaultRolloverStrategy max="30" fileIndex="min"/> <!-- 8. 调整 all 日志保留天数，并使用 min 索引 -->
+        </RollingFile>
+        <Async name="AsyncAll">
+            <AppenderRef ref="all"/>
+        </Async>
+        <!-- 定义输出到错误日志文件,文件名引用上面定义的file.err.filename -->
+        <RollingFile name="err" bufferedIO="true" fileName="${file.err.filename}" filePattern="${file.err.pattern}">
+            <!-- 只接受 ERROR 级别及以上的日志 -->
+            <ThresholdFilter level="ERROR" onMatch="ACCEPT" onMismatch="DENY"/>
+            <PatternLayout pattern="${log.pattern}" />
+            <Policies>
+                <!-- 根据时间和文件大小自动切割日志 -->
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/> <!-- 6. 调整 err 日志切割策略为按天切割 -->
+                <SizeBasedTriggeringPolicy size="100 MB" /> <!-- 7. 增大 err 日志文件大小限制 -->
+            </Policies>
+            <!-- 保留最近30天的日志，根据实际磁盘空间和需求调整 -->
+            <DefaultRolloverStrategy max="30" fileIndex="min"/> <!-- 8. 调整 err 日志保留天数，并使用 min 索引 -->
+        </RollingFile>
+        <Async name="AsyncErr">
+            <AppenderRef ref="err"/>
+        </Async>
+    </Appenders>
+    <Loggers>
+        <!-- Root Logger 配置，控制根日志级别和输出目的地 -->
+        <Root level="info"> <!-- 12. 根日志级别保持 info，可根据实际情况调整 -->
+            <!-- 输出到控制台 -->
+            <AppenderRef ref="console" />
+            <!-- 输出到所有日志文件 -->
+            <AppenderRef ref="all" />
+            <!-- 输出到错误日志文件 -->
+            <AppenderRef ref="err" />
+        </Root>
+    </Loggers>
+</Configuration>

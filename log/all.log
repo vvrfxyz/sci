@@ -1,0 +1,555 @@
+02-23 17:29:54.538 [main] INFO  xyz.vvrf.sci.SciApplication - Starting SciApplication using Java 17.0.9 with PID 21122 (/Users/wenruifeng/IdeaProjects/sci/target/classes started by wenruifeng in /Users/wenruifeng/IdeaProjects/sci)
+
+02-23 17:29:54.543 [main] INFO  xyz.vvrf.sci.SciApplication - No active profile set, falling back to 1 default profile: "default"
+
+02-23 17:29:54.778 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+
+02-23 17:29:54.782 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 1 ms. Found 0 JDBC repository interfaces.
+
+02-23 17:29:54.976 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+
+02-23 17:29:55.005 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 445 ms
+
+02-23 17:29:55.479 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+
+02-23 17:29:55.484 [main] INFO  xyz.vvrf.sci.SciApplication - Started SciApplication in 1.089 seconds (process running for 1.454)
+
+02-23 17:32:03.168 [SpringApplicationShutdownHook] INFO  org.springframework.boot.web.embedded.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+
+02-23 17:32:03.187 [tomcat-shutdown] INFO  org.springframework.boot.web.embedded.tomcat.GracefulShutdown - Graceful shutdown complete
+
+02-23 17:32:04.569 [main] INFO  xyz.vvrf.sci.SciApplication - Starting SciApplication using Java 17.0.9 with PID 21360 (/Users/wenruifeng/IdeaProjects/sci/target/classes started by wenruifeng in /Users/wenruifeng/IdeaProjects/sci)
+
+02-23 17:32:04.573 [main] INFO  xyz.vvrf.sci.SciApplication - No active profile set, falling back to 1 default profile: "default"
+
+02-23 17:32:04.810 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+
+02-23 17:32:04.814 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+
+02-23 17:32:05.006 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+
+02-23 17:32:05.035 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 446 ms
+
+02-23 17:32:05.518 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+
+02-23 17:32:05.523 [main] INFO  xyz.vvrf.sci.SciApplication - Started SciApplication in 1.101 seconds (process running for 1.502)
+
+02-23 17:46:06.479 [SpringApplicationShutdownHook] INFO  org.springframework.boot.web.embedded.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+
+02-23 17:46:06.501 [tomcat-shutdown] INFO  org.springframework.boot.web.embedded.tomcat.GracefulShutdown - Graceful shutdown complete
+
+2025-02-23 17:46:07.899 [main] INFO  xyz.vvrf.sci.SciApplication - Starting SciApplication using Java 17.0.9 with PID 22837 (/Users/wenruifeng/IdeaProjects/sci/target/classes started by wenruifeng in /Users/wenruifeng/IdeaProjects/sci)
+2025-02-23 17:46:07.902 [main] INFO  xyz.vvrf.sci.SciApplication - No active profile set, falling back to 1 default profile: "default"
+2025-02-23 17:46:08.144 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-02-23 17:46:08.148 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 1 ms. Found 0 JDBC repository interfaces.
+2025-02-23 17:46:08.343 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-02-23 17:46:08.371 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 451 ms
+2025-02-23 17:46:08.859 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-02-23 17:46:08.865 [main] INFO  xyz.vvrf.sci.SciApplication - Started SciApplication in 1.129 seconds (process running for 1.558)
+2025-02-23 17:46:25.509 [SpringApplicationShutdownHook] INFO  org.springframework.boot.web.embedded.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-23 17:46:25.532 [tomcat-shutdown] INFO  org.springframework.boot.web.embedded.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-02-23 17:46:26.876 [main] INFO  xyz.vvrf.sci.SciApplication - Starting SciApplication using Java 17.0.9 with PID 22886 (/Users/wenruifeng/IdeaProjects/sci/target/classes started by wenruifeng in /Users/wenruifeng/IdeaProjects/sci)
+2025-02-23 17:46:26.879 [main] INFO  xyz.vvrf.sci.SciApplication - No active profile set, falling back to 1 default profile: "default"
+2025-02-23 17:46:27.117 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-02-23 17:46:27.121 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 1 ms. Found 0 JDBC repository interfaces.
+2025-02-23 17:46:27.317 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-02-23 17:46:27.347 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 453 ms
+2025-02-23 17:46:27.854 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-02-23 17:46:27.860 [main] INFO  xyz.vvrf.sci.SciApplication - Started SciApplication in 1.12 seconds (process running for 1.535)
+2025-02-23 18:01:58.132 [SpringApplicationShutdownHook] INFO  org.springframework.boot.web.embedded.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-23 18:01:58.146 [tomcat-shutdown] INFO  org.springframework.boot.web.embedded.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-02-23 18:01:59.536 [main] 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.StartupInfoLogger.logStarting) - Starting SciApplication using Java 17.0.9 with PID 24540 (/Users/wenruifeng/IdeaProjects/sci/target/classes started by wenruifeng in /Users/wenruifeng/IdeaProjects/sci)
+2025-02-23 18:01:59.540 [main] 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.SpringApplication.logStartupProfileInfo) - No active profile set, falling back to 1 default profile: "default"
+2025-02-23 18:01:59.778 [main] 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-02-23 18:01:59.783 [main] 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Finished Spring Data repository scanning in 1 ms. Found 0 JDBC repository interfaces.
+2025-02-23 18:01:59.992 [main] 1 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer (o.s.b.w.e.t.TomcatWebServer.initialize) - Tomcat initialized with port 8080 (http)
+2025-02-23 18:02:00.024 [main] 1 INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext (o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext) - Root WebApplicationContext: initialization completed in 467 ms
+2025-02-23 18:02:00.577 [main] 1 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer (o.s.b.w.e.t.TomcatWebServer.start) - Tomcat started on port 8080 (http) with context path '/'
+2025-02-23 18:02:00.582 [main] 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.StartupInfoLogger.logStarted) - Started SciApplication in 1.197 seconds (process running for 1.592)
+2025-02-23 18:02:54.254 [SpringApplicationShutdownHook] 17 INFO  org.springframework.boot.web.embedded.tomcat.GracefulShutdown (o.s.b.w.e.t.GracefulShutdown.shutDownGracefully) - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-23 18:02:54.274 [tomcat-shutdown] 49 INFO  org.springframework.boot.web.embedded.tomcat.GracefulShutdown (o.s.b.w.e.t.GracefulShutdown.doShutdown) - Graceful shutdown complete
+2025-02-23 18:02:55.549 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.StartupInfoLogger.logStarting) - Starting SciApplication using Java 17.0.9 with PID 24648 (/Users/wenruifeng/IdeaProjects/sci/target/classes started by wenruifeng in /Users/wenruifeng/IdeaProjects/sci)
+2025-02-23 18:02:55.552 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.SpringApplication.logStartupProfileInfo) - No active profile set, falling back to 1 default profile: "default"
+2025-02-23 18:02:55.791 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-02-23 18:02:55.796 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Finished Spring Data repository scanning in 1 ms. Found 0 JDBC repository interfaces.
+2025-02-23 18:02:55.994 [main] {} 1 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer (o.s.b.w.e.t.TomcatWebServer.initialize) - Tomcat initialized with port 8080 (http)
+2025-02-23 18:02:56.023 [main] {} 1 INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext (o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext) - Root WebApplicationContext: initialization completed in 457 ms
+2025-02-23 18:02:56.513 [main] {} 1 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer (o.s.b.w.e.t.TomcatWebServer.start) - Tomcat started on port 8080 (http) with context path '/'
+2025-02-23 18:02:56.518 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.StartupInfoLogger.logStarted) - Started SciApplication in 1.113 seconds (process running for 1.468)
+2025-02-23 18:24:05.084 [SpringApplicationShutdownHook] {} 17 INFO  org.springframework.boot.web.embedded.tomcat.GracefulShutdown (o.s.b.w.e.t.GracefulShutdown.shutDownGracefully) - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-23 18:24:05.110 [tomcat-shutdown] {} 49 INFO  org.springframework.boot.web.embedded.tomcat.GracefulShutdown (o.s.b.w.e.t.GracefulShutdown.doShutdown) - Graceful shutdown complete
+2025-02-23 18:24:06.535 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.StartupInfoLogger.logStarting) - Starting SciApplication using Java 17.0.9 with PID 26923 (/Users/wenruifeng/IdeaProjects/sci/target/classes started by wenruifeng in /Users/wenruifeng/IdeaProjects/sci)
+2025-02-23 18:24:06.540 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.SpringApplication.logStartupProfileInfo) - No active profile set, falling back to 1 default profile: "default"
+2025-02-23 18:24:06.784 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-02-23 18:24:06.788 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2025-02-23 18:24:06.991 [main] {} 1 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer (o.s.b.w.e.t.TomcatWebServer.initialize) - Tomcat initialized with port 8080 (http)
+2025-02-23 18:24:07.023 [main] {} 1 INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext (o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext) - Root WebApplicationContext: initialization completed in 466 ms
+2025-02-23 18:24:07.524 [main] {} 1 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer (o.s.b.w.e.t.TomcatWebServer.start) - Tomcat started on port 8080 (http) with context path '/'
+2025-02-23 18:24:07.529 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.StartupInfoLogger.logStarted) - Started SciApplication in 1.155 seconds (process running for 1.627)
+2025-02-23 19:07:53.242 [SpringApplicationShutdownHook] {} 21 INFO  org.springframework.boot.web.embedded.tomcat.GracefulShutdown (o.s.b.w.e.t.GracefulShutdown.shutDownGracefully) - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-23 19:07:53.269 [tomcat-shutdown] {} 63 INFO  org.springframework.boot.web.embedded.tomcat.GracefulShutdown (o.s.b.w.e.t.GracefulShutdown.doShutdown) - Graceful shutdown complete
+2025-02-23 19:07:55.520 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.StartupInfoLogger.logStarting) - Starting SciApplication using Java 17.0.9 with PID 31723 (/Users/wenruifeng/IdeaProjects/sci/target/classes started by wenruifeng in /Users/wenruifeng/IdeaProjects/sci)
+2025-02-23 19:07:55.524 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.SpringApplication.logStartupProfileInfo) - No active profile set, falling back to 1 default profile: "default"
+2025-02-23 19:07:55.827 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-02-23 19:07:55.833 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2025-02-23 19:07:55.879 [main] {} 1 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner (o.m.l.Logger.warn) - No MyBatis mapper was found in '[xyz.vvrf.sci]' package. Please check your configuration.
+2025-02-23 19:07:56.051 [main] {} 1 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer (o.s.b.w.e.t.TomcatWebServer.initialize) - Tomcat initialized with port 8080 (http)
+2025-02-23 19:07:56.057 [main] {} 1 INFO  org.apache.coyote.http11.Http11NioProtocol (o.a.j.l.DirectJDKLog.log) - Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-23 19:07:56.058 [main] {} 1 INFO  org.apache.catalina.core.StandardService (o.a.j.l.DirectJDKLog.log) - Starting service [Tomcat]
+2025-02-23 19:07:56.058 [main] {} 1 INFO  org.apache.catalina.core.StandardEngine (o.a.j.l.DirectJDKLog.log) - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-02-23 19:07:56.078 [main] {} 1 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] (o.a.j.l.DirectJDKLog.log) - Initializing Spring embedded WebApplicationContext
+2025-02-23 19:07:56.079 [main] {} 1 INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext (o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext) - Root WebApplicationContext: initialization completed in 535 ms
+2025-02-23 19:07:56.228 [main] {} 1 WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext (o.s.c.s.AbstractApplicationContext.refresh) - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Failed to determine a suitable driver class
+2025-02-23 19:07:56.230 [main] {} 1 INFO  org.apache.catalina.core.StandardService (o.a.j.l.DirectJDKLog.log) - Stopping service [Tomcat]
+2025-02-23 19:07:56.245 [main] {} 1 INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger (o.s.b.a.l.ConditionEvaluationReportLogger.logMessage) - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-02-23 19:07:56.252 [main] {} 1 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter (o.s.b.d.LoggingFailureAnalysisReporter.report) - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2025-02-23 19:12:07.940 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.StartupInfoLogger.logStarting) - Starting SciApplication using Java 17.0.9 with PID 32181 (/Users/wenruifeng/IdeaProjects/sci/target/classes started by wenruifeng in /Users/wenruifeng/IdeaProjects/sci)
+2025-02-23 19:12:07.944 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.SpringApplication.logStartupProfileInfo) - No active profile set, falling back to 1 default profile: "default"
+2025-02-23 19:12:08.219 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-02-23 19:12:08.224 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2025-02-23 19:12:08.273 [main] {} 1 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner (o.m.l.Logger.warn) - No MyBatis mapper was found in '[xyz.vvrf.sci]' package. Please check your configuration.
+2025-02-23 19:12:08.462 [main] {} 1 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer (o.s.b.w.e.t.TomcatWebServer.initialize) - Tomcat initialized with port 8080 (http)
+2025-02-23 19:12:08.472 [main] {} 1 INFO  org.apache.coyote.http11.Http11NioProtocol (o.a.j.l.DirectJDKLog.log) - Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-23 19:12:08.473 [main] {} 1 INFO  org.apache.catalina.core.StandardService (o.a.j.l.DirectJDKLog.log) - Starting service [Tomcat]
+2025-02-23 19:12:08.473 [main] {} 1 INFO  org.apache.catalina.core.StandardEngine (o.a.j.l.DirectJDKLog.log) - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-02-23 19:12:08.496 [main] {} 1 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] (o.a.j.l.DirectJDKLog.log) - Initializing Spring embedded WebApplicationContext
+2025-02-23 19:12:08.496 [main] {} 1 INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext (o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext) - Root WebApplicationContext: initialization completed in 535 ms
+2025-02-23 19:12:08.667 [main] {} 1 WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext (o.s.c.s.AbstractApplicationContext.refresh) - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Failed to determine a suitable driver class
+2025-02-23 19:12:08.669 [main] {} 1 INFO  org.apache.catalina.core.StandardService (o.a.j.l.DirectJDKLog.log) - Stopping service [Tomcat]
+2025-02-23 19:12:08.686 [main] {} 1 INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger (o.s.b.a.l.ConditionEvaluationReportLogger.logMessage) - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-02-23 19:12:08.695 [main] {} 1 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter (o.s.b.d.LoggingFailureAnalysisReporter.report) - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2025-02-23 19:13:55.240 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.StartupInfoLogger.logStarting) - Starting SciApplication using Java 17.0.9 with PID 32383 (/Users/wenruifeng/IdeaProjects/sci/target/classes started by wenruifeng in /Users/wenruifeng/IdeaProjects/sci)
+2025-02-23 19:13:55.246 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.SpringApplication.logStartupProfileInfo) - No active profile set, falling back to 1 default profile: "default"
+2025-02-23 19:13:55.514 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-02-23 19:13:55.519 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2025-02-23 19:13:55.569 [main] {} 1 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner (o.m.l.Logger.warn) - No MyBatis mapper was found in '[xyz.vvrf.sci]' package. Please check your configuration.
+2025-02-23 19:13:55.728 [main] {} 1 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer (o.s.b.w.e.t.TomcatWebServer.initialize) - Tomcat initialized with port 8080 (http)
+2025-02-23 19:13:55.734 [main] {} 1 INFO  org.apache.coyote.http11.Http11NioProtocol (o.a.j.l.DirectJDKLog.log) - Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-23 19:13:55.735 [main] {} 1 INFO  org.apache.catalina.core.StandardService (o.a.j.l.DirectJDKLog.log) - Starting service [Tomcat]
+2025-02-23 19:13:55.735 [main] {} 1 INFO  org.apache.catalina.core.StandardEngine (o.a.j.l.DirectJDKLog.log) - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-02-23 19:13:55.757 [main] {} 1 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] (o.a.j.l.DirectJDKLog.log) - Initializing Spring embedded WebApplicationContext
+2025-02-23 19:13:55.757 [main] {} 1 INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext (o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext) - Root WebApplicationContext: initialization completed in 495 ms
+2025-02-23 19:13:55.902 [main] {} 1 WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext (o.s.c.s.AbstractApplicationContext.refresh) - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Failed to determine a suitable driver class
+2025-02-23 19:13:55.904 [main] {} 1 INFO  org.apache.catalina.core.StandardService (o.a.j.l.DirectJDKLog.log) - Stopping service [Tomcat]
+2025-02-23 19:13:55.922 [main] {} 1 INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger (o.s.b.a.l.ConditionEvaluationReportLogger.logMessage) - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-02-23 19:13:55.931 [main] {} 1 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter (o.s.b.d.LoggingFailureAnalysisReporter.report) - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2025-02-23 19:17:14.519 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.StartupInfoLogger.logStarting) - Starting SciApplication using Java 17.0.9 with PID 33555 (/Users/wenruifeng/IdeaProjects/sci/target/classes started by wenruifeng in /Users/wenruifeng/IdeaProjects/sci)
+2025-02-23 19:17:14.523 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.SpringApplication.logStartupProfileInfo) - No active profile set, falling back to 1 default profile: "default"
+2025-02-23 19:17:14.833 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-02-23 19:17:14.838 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2025-02-23 19:17:14.889 [main] {} 1 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner (o.m.l.Logger.warn) - No MyBatis mapper was found in '[xyz.vvrf.sci]' package. Please check your configuration.
+2025-02-23 19:17:15.081 [main] {} 1 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer (o.s.b.w.e.t.TomcatWebServer.initialize) - Tomcat initialized with port 8080 (http)
+2025-02-23 19:17:15.088 [main] {} 1 INFO  org.apache.coyote.http11.Http11NioProtocol (o.a.j.l.DirectJDKLog.log) - Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-23 19:17:15.089 [main] {} 1 INFO  org.apache.catalina.core.StandardService (o.a.j.l.DirectJDKLog.log) - Starting service [Tomcat]
+2025-02-23 19:17:15.089 [main] {} 1 INFO  org.apache.catalina.core.StandardEngine (o.a.j.l.DirectJDKLog.log) - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-02-23 19:17:15.111 [main] {} 1 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] (o.a.j.l.DirectJDKLog.log) - Initializing Spring embedded WebApplicationContext
+2025-02-23 19:17:15.112 [main] {} 1 INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext (o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext) - Root WebApplicationContext: initialization completed in 563 ms
+2025-02-23 19:17:15.277 [main] {} 1 WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext (o.s.c.s.AbstractApplicationContext.refresh) - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Failed to determine a suitable driver class
+2025-02-23 19:17:15.279 [main] {} 1 INFO  org.apache.catalina.core.StandardService (o.a.j.l.DirectJDKLog.log) - Stopping service [Tomcat]
+2025-02-23 19:17:15.295 [main] {} 1 INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger (o.s.b.a.l.ConditionEvaluationReportLogger.logMessage) - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-02-23 19:17:15.303 [main] {} 1 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter (o.s.b.d.LoggingFailureAnalysisReporter.report) - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2025-02-23 19:17:52.934 [main] {} 1 INFO  org.springframework.test.context.support.AnnotationConfigContextLoaderUtils (o.s.t.c.s.AnnotationConfigContextLoaderUtils.detectDefaultConfigurationClasses) - Could not detect default configuration classes for test class [xyz.vvrf.sci.SciApplicationTests]: SciApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-02-23 19:17:52.988 [main] {} 1 INFO  org.springframework.boot.test.context.SpringBootTestContextBootstrapper (o.s.b.t.c.SpringBootTestContextBootstrapper.getOrFindConfigurationClasses) - Found @SpringBootConfiguration xyz.vvrf.sci.SciApplication for test class xyz.vvrf.sci.SciApplicationTests
+2025-02-23 19:17:53.166 [main] {} 1 INFO  xyz.vvrf.sci.SciApplicationTests (o.s.b.StartupInfoLogger.logStarting) - Starting SciApplicationTests using Java 17.0.9 with PID 33644 (started by wenruifeng in /Users/wenruifeng/IdeaProjects/sci)
+2025-02-23 19:17:53.168 [main] {} 1 INFO  xyz.vvrf.sci.SciApplicationTests (o.s.b.SpringApplication.logStartupProfileInfo) - No active profile set, falling back to 1 default profile: "default"
+2025-02-23 19:17:53.463 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-02-23 19:17:53.468 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2025-02-23 19:17:53.523 [main] {} 1 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner (o.m.l.Logger.warn) - No MyBatis mapper was found in '[xyz.vvrf.sci]' package. Please check your configuration.
+2025-02-23 19:17:53.832 [main] {} 1 WARN  org.springframework.web.context.support.GenericWebApplicationContext (o.s.c.s.AbstractApplicationContext.refresh) - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Failed to determine a suitable driver class
+2025-02-23 19:17:53.847 [main] {} 1 INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger (o.s.b.a.l.ConditionEvaluationReportLogger.logMessage) - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-02-23 19:17:53.856 [main] {} 1 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter (o.s.b.d.LoggingFailureAnalysisReporter.report) - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2025-02-23 19:17:53.858 [main] {} 1 WARN  org.springframework.test.context.TestContextManager (o.s.t.c.TestContextManager.prepareTestInstance) - Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener] to prepare test instance [xyz.vvrf.sci.SciApplicationTests@14be750c]
+java.lang.IllegalStateException: Failed to load ApplicationContext for [WebMergedContextConfiguration@1c72189f testClass = xyz.vvrf.sci.SciApplicationTests, locations = [], classes = [xyz.vvrf.sci.SciApplication], contextInitializerClasses = [], activeProfiles = [], propertySourceDescriptors = [], propertySourceProperties = ["org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true"], contextCustomizers = [org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@5aa360ea, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@35e52059, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@0, org.springframework.boot.test.web.client.TestRestTemplateContextCustomizer@5d332969, org.springframework.boot.test.web.reactor.netty.DisableReactorResourceFactoryGlobalResourcesContextCustomizerFactory$DisableReactorResourceFactoryGlobalResourcesContextCustomizerCustomizer@7726e185, org.springframework.boot.test.autoconfigure.OnFailureConditionReportContextCustomizerFactory$OnFailureConditionReportContextCustomizer@5dda14d0, org.springframework.boot.test.autoconfigure.actuate.observability.ObservabilityContextCustomizerFactory$DisableObservabilityContextCustomizer@1f, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizer@251ebf23, org.springframework.test.context.support.DynamicPropertiesContextCustomizer@0, org.springframework.boot.test.context.SpringBootTestAnnotation@8e979a09], resourceBasePath = "src/main/webapp", contextLoader = org.springframework.boot.test.context.SpringBootContextLoader, parent = null]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:180) ~[spring-test-6.2.3.jar:6.2.3]
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:130) ~[spring-test-6.2.3.jar:6.2.3]
+	at org.springframework.test.context.web.ServletTestExecutionListener.setUpRequestContextIfNecessary(ServletTestExecutionListener.java:200) ~[spring-test-6.2.3.jar:6.2.3]
+	at org.springframework.test.context.web.ServletTestExecutionListener.prepareTestInstance(ServletTestExecutionListener.java:139) ~[spring-test-6.2.3.jar:6.2.3]
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:260) ~[spring-test-6.2.3.jar:6.2.3]
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:160) ~[spring-test-6.2.3.jar:6.2.3]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$11(ClassBasedTestDescriptor.java:378) ~[junit-jupiter-engine-5.11.4.jar:5.11.4]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:383) ~[junit-jupiter-engine-5.11.4.jar:5.11.4]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$12(ClassBasedTestDescriptor.java:378) ~[junit-jupiter-engine-5.11.4.jar:5.11.4]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:377) ~[junit-jupiter-engine-5.11.4.jar:5.11.4]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$7(ClassBasedTestDescriptor.java:290) ~[junit-jupiter-engine-5.11.4.jar:5.11.4]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:289) ~[junit-jupiter-engine-5.11.4.jar:5.11.4]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:279) ~[junit-jupiter-engine-5.11.4.jar:5.11.4]
+	at java.util.Optional.orElseGet(Optional.java:364) ~[?:?]
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$6(ClassBasedTestDescriptor.java:278) ~[junit-jupiter-engine-5.11.4.jar:5.11.4]
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31) ~[junit-jupiter-engine-5.11.4.jar:5.11.4]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$1(TestMethodTestDescriptor.java:105) ~[junit-jupiter-engine-5.11.4.jar:5.11.4]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:104) ~[junit-jupiter-engine-5.11.4.jar:5.11.4]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:68) ~[junit-jupiter-engine-5.11.4.jar:5.11.4]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:128) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:128) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:160) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:160) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.11.4.jar:1.11.4]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198) ~[junit-platform-launcher-1.11.4.jar:1.11.4]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169) ~[junit-platform-launcher-1.11.4.jar:1.11.4]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93) ~[junit-platform-launcher-1.11.4.jar:1.11.4]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58) ~[junit-platform-launcher-1.11.4.jar:1.11.4]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141) [junit-platform-launcher-1.11.4.jar:1.11.4]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57) [junit-platform-launcher-1.11.4.jar:1.11.4]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103) [junit-platform-launcher-1.11.4.jar:1.11.4]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85) [junit-platform-launcher-1.11.4.jar:1.11.4]
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47) [junit-platform-launcher-1.11.4.jar:1.11.4]
+	at org.apache.maven.surefire.junitplatform.LazyLauncher.execute(LazyLauncher.java:56) [surefire-junit-platform-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:184) [surefire-junit-platform-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:148) [surefire-junit-platform-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:122) [surefire-junit-platform-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.2.jar:3.5.2]
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Failed to determine a suitable driver class
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:657) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:645) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1361) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1191) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:346) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1155) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1121) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1056) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987) ~[spring-context-6.2.3.jar:6.2.3]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627) ~[spring-context-6.2.3.jar:6.2.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752) ~[spring-boot-3.4.3.jar:3.4.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439) ~[spring-boot-3.4.3.jar:3.4.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318) ~[spring-boot-3.4.3.jar:3.4.3]
+	at org.springframework.boot.test.context.SpringBootContextLoader.lambda$loadContext$3(SpringBootContextLoader.java:137) ~[spring-boot-test-3.4.3.jar:3.4.3]
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:58) ~[spring-core-6.2.3.jar:6.2.3]
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:46) ~[spring-core-6.2.3.jar:6.2.3]
+	at org.springframework.boot.SpringApplication.withHook(SpringApplication.java:1461) ~[spring-boot-3.4.3.jar:3.4.3]
+	at org.springframework.boot.test.context.SpringBootContextLoader$ContextLoaderHook.run(SpringBootContextLoader.java:553) ~[spring-boot-test-3.4.3.jar:3.4.3]
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:137) ~[spring-boot-test-3.4.3.jar:3.4.3]
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:108) ~[spring-boot-test-3.4.3.jar:3.4.3]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:225) ~[spring-test-6.2.3.jar:6.2.3]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:152) ~[spring-test-6.2.3.jar:6.2.3]
+	... 75 more
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Failed to determine a suitable driver class
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:199) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiateWithFactoryMethod(SimpleInstantiationStrategy.java:88) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:168) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:645) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1361) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1191) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:346) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1155) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1121) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1056) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987) ~[spring-context-6.2.3.jar:6.2.3]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627) ~[spring-context-6.2.3.jar:6.2.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752) ~[spring-boot-3.4.3.jar:3.4.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439) ~[spring-boot-3.4.3.jar:3.4.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318) ~[spring-boot-3.4.3.jar:3.4.3]
+	at org.springframework.boot.test.context.SpringBootContextLoader.lambda$loadContext$3(SpringBootContextLoader.java:137) ~[spring-boot-test-3.4.3.jar:3.4.3]
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:58) ~[spring-core-6.2.3.jar:6.2.3]
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:46) ~[spring-core-6.2.3.jar:6.2.3]
+	at org.springframework.boot.SpringApplication.withHook(SpringApplication.java:1461) ~[spring-boot-3.4.3.jar:3.4.3]
+	at org.springframework.boot.test.context.SpringBootContextLoader$ContextLoaderHook.run(SpringBootContextLoader.java:553) ~[spring-boot-test-3.4.3.jar:3.4.3]
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:137) ~[spring-boot-test-3.4.3.jar:3.4.3]
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:108) ~[spring-boot-test-3.4.3.jar:3.4.3]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:225) ~[spring-test-6.2.3.jar:6.2.3]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:152) ~[spring-test-6.2.3.jar:6.2.3]
+	... 75 more
+Caused by: org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceProperties.determineDriverClassName(DataSourceProperties.java:186) ~[spring-boot-autoconfigure-3.4.3.jar:3.4.3]
+	at org.springframework.boot.autoconfigure.jdbc.PropertiesJdbcConnectionDetails.getDriverClassName(PropertiesJdbcConnectionDetails.java:49) ~[spring-boot-autoconfigure-3.4.3.jar:3.4.3]
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration.createDataSource(DataSourceConfiguration.java:55) ~[spring-boot-autoconfigure-3.4.3.jar:3.4.3]
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari.dataSource(DataSourceConfiguration.java:117) ~[spring-boot-autoconfigure-3.4.3.jar:3.4.3]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.lambda$instantiate$0(SimpleInstantiationStrategy.java:171) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiateWithFactoryMethod(SimpleInstantiationStrategy.java:88) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:168) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:645) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1361) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1191) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:346) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1155) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1121) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1056) ~[spring-beans-6.2.3.jar:6.2.3]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987) ~[spring-context-6.2.3.jar:6.2.3]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627) ~[spring-context-6.2.3.jar:6.2.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752) ~[spring-boot-3.4.3.jar:3.4.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439) ~[spring-boot-3.4.3.jar:3.4.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318) ~[spring-boot-3.4.3.jar:3.4.3]
+	at org.springframework.boot.test.context.SpringBootContextLoader.lambda$loadContext$3(SpringBootContextLoader.java:137) ~[spring-boot-test-3.4.3.jar:3.4.3]
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:58) ~[spring-core-6.2.3.jar:6.2.3]
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:46) ~[spring-core-6.2.3.jar:6.2.3]
+	at org.springframework.boot.SpringApplication.withHook(SpringApplication.java:1461) ~[spring-boot-3.4.3.jar:3.4.3]
+	at org.springframework.boot.test.context.SpringBootContextLoader$ContextLoaderHook.run(SpringBootContextLoader.java:553) ~[spring-boot-test-3.4.3.jar:3.4.3]
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:137) ~[spring-boot-test-3.4.3.jar:3.4.3]
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:108) ~[spring-boot-test-3.4.3.jar:3.4.3]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:225) ~[spring-test-6.2.3.jar:6.2.3]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:152) ~[spring-test-6.2.3.jar:6.2.3]
+	... 75 more
+2025-02-23 19:19:00.734 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.StartupInfoLogger.logStarting) - Starting SciApplication using Java 17.0.9 with PID 33778 (/Users/wenruifeng/IdeaProjects/sci/target/classes started by wenruifeng in /Users/wenruifeng/IdeaProjects/sci)
+2025-02-23 19:19:00.739 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.SpringApplication.logStartupProfileInfo) - No active profile set, falling back to 1 default profile: "default"
+2025-02-23 19:19:01.046 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-02-23 19:19:01.052 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2025-02-23 19:19:01.125 [main] {} 1 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner (o.m.l.Logger.warn) - No MyBatis mapper was found in '[xyz.vvrf.sci]' package. Please check your configuration.
+2025-02-23 19:19:01.321 [main] {} 1 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer (o.s.b.w.e.t.TomcatWebServer.initialize) - Tomcat initialized with port 8080 (http)
+2025-02-23 19:19:01.327 [main] {} 1 INFO  org.apache.coyote.http11.Http11NioProtocol (o.a.j.l.DirectJDKLog.log) - Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-23 19:19:01.328 [main] {} 1 INFO  org.apache.catalina.core.StandardService (o.a.j.l.DirectJDKLog.log) - Starting service [Tomcat]
+2025-02-23 19:19:01.328 [main] {} 1 INFO  org.apache.catalina.core.StandardEngine (o.a.j.l.DirectJDKLog.log) - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-02-23 19:19:01.351 [main] {} 1 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] (o.a.j.l.DirectJDKLog.log) - Initializing Spring embedded WebApplicationContext
+2025-02-23 19:19:01.351 [main] {} 1 INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext (o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext) - Root WebApplicationContext: initialization completed in 593 ms
+2025-02-23 19:19:01.519 [main] {} 1 WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext (o.s.c.s.AbstractApplicationContext.refresh) - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Failed to determine a suitable driver class
+2025-02-23 19:19:01.521 [main] {} 1 INFO  org.apache.catalina.core.StandardService (o.a.j.l.DirectJDKLog.log) - Stopping service [Tomcat]
+2025-02-23 19:19:01.536 [main] {} 1 INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger (o.s.b.a.l.ConditionEvaluationReportLogger.logMessage) - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-02-23 19:19:01.543 [main] {} 1 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter (o.s.b.d.LoggingFailureAnalysisReporter.report) - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2025-02-23 19:21:06.756 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.StartupInfoLogger.logStarting) - Starting SciApplication using Java 17.0.9 with PID 34045 (/Users/wenruifeng/IdeaProjects/sci/target/classes started by wenruifeng in /Users/wenruifeng/IdeaProjects/sci)
+2025-02-23 19:21:06.762 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.SpringApplication.logStartupProfileInfo) - No active profile set, falling back to 1 default profile: "default"
+2025-02-23 19:21:07.032 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-02-23 19:21:07.037 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2025-02-23 19:21:07.082 [main] {} 1 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner (o.m.l.Logger.warn) - No MyBatis mapper was found in '[xyz.vvrf.sci]' package. Please check your configuration.
+2025-02-23 19:21:07.237 [main] {} 1 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer (o.s.b.w.e.t.TomcatWebServer.initialize) - Tomcat initialized with port 8080 (http)
+2025-02-23 19:21:07.244 [main] {} 1 INFO  org.apache.coyote.http11.Http11NioProtocol (o.a.j.l.DirectJDKLog.log) - Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-23 19:21:07.245 [main] {} 1 INFO  org.apache.catalina.core.StandardService (o.a.j.l.DirectJDKLog.log) - Starting service [Tomcat]
+2025-02-23 19:21:07.245 [main] {} 1 INFO  org.apache.catalina.core.StandardEngine (o.a.j.l.DirectJDKLog.log) - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-02-23 19:21:07.266 [main] {} 1 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] (o.a.j.l.DirectJDKLog.log) - Initializing Spring embedded WebApplicationContext
+2025-02-23 19:21:07.266 [main] {} 1 INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext (o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext) - Root WebApplicationContext: initialization completed in 486 ms
+2025-02-23 19:21:07.421 [main] {} 1 WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext (o.s.c.s.AbstractApplicationContext.refresh) - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Failed to determine suitable jdbc url
+2025-02-23 19:21:07.423 [main] {} 1 INFO  org.apache.catalina.core.StandardService (o.a.j.l.DirectJDKLog.log) - Stopping service [Tomcat]
+2025-02-23 19:21:07.437 [main] {} 1 INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger (o.s.b.a.l.ConditionEvaluationReportLogger.logMessage) - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-02-23 19:21:07.445 [main] {} 1 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter (o.s.b.d.LoggingFailureAnalysisReporter.report) - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine suitable jdbc url
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2025-02-23 19:21:18.510 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.StartupInfoLogger.logStarting) - Starting SciApplication using Java 17.0.9 with PID 34066 (/Users/wenruifeng/IdeaProjects/sci/target/classes started by wenruifeng in /Users/wenruifeng/IdeaProjects/sci)
+2025-02-23 19:21:18.513 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.SpringApplication.logStartupProfileInfo) - No active profile set, falling back to 1 default profile: "default"
+2025-02-23 19:21:18.788 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-02-23 19:21:18.793 [main] {} 1 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (o.s.d.r.c.RepositoryConfigurationDelegate.registerRepositoriesIn) - Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2025-02-23 19:21:18.844 [main] {} 1 WARN  org.mybatis.spring.mapper.ClassPathMapperScanner (o.m.l.Logger.warn) - No MyBatis mapper was found in '[xyz.vvrf.sci]' package. Please check your configuration.
+2025-02-23 19:21:19.025 [main] {} 1 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer (o.s.b.w.e.t.TomcatWebServer.initialize) - Tomcat initialized with port 8080 (http)
+2025-02-23 19:21:19.032 [main] {} 1 INFO  org.apache.coyote.http11.Http11NioProtocol (o.a.j.l.DirectJDKLog.log) - Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-23 19:21:19.032 [main] {} 1 INFO  org.apache.catalina.core.StandardService (o.a.j.l.DirectJDKLog.log) - Starting service [Tomcat]
+2025-02-23 19:21:19.033 [main] {} 1 INFO  org.apache.catalina.core.StandardEngine (o.a.j.l.DirectJDKLog.log) - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-02-23 19:21:19.053 [main] {} 1 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] (o.a.j.l.DirectJDKLog.log) - Initializing Spring embedded WebApplicationContext
+2025-02-23 19:21:19.054 [main] {} 1 INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext (o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext) - Root WebApplicationContext: initialization completed in 523 ms
+2025-02-23 19:21:19.208 [main] {} 1 WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext (o.s.c.s.AbstractApplicationContext.refresh) - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Failed to determine suitable jdbc url
+2025-02-23 19:21:19.209 [main] {} 1 INFO  org.apache.catalina.core.StandardService (o.a.j.l.DirectJDKLog.log) - Stopping service [Tomcat]
+2025-02-23 19:21:19.223 [main] {} 1 INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger (o.s.b.a.l.ConditionEvaluationReportLogger.logMessage) - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-02-23 19:21:19.230 [main] {} 1 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter (o.s.b.d.LoggingFailureAnalysisReporter.report) - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine suitable jdbc url
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2025-02-23 19:22:06.658 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.StartupInfoLogger.logStarting) - Starting SciApplication using Java 17.0.9 with PID 34158 (/Users/wenruifeng/IdeaProjects/sci/target/classes started by wenruifeng in /Users/wenruifeng/IdeaProjects/sci)
+2025-02-23 19:22:06.661 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.SpringApplication.logStartupProfileInfo) - No active profile set, falling back to 1 default profile: "default"
+2025-02-23 19:22:07.092 [main] {} 1 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer (o.s.b.w.e.t.TomcatWebServer.initialize) - Tomcat initialized with port 8080 (http)
+2025-02-23 19:22:07.098 [main] {} 1 INFO  org.apache.coyote.http11.Http11NioProtocol (o.a.j.l.DirectJDKLog.log) - Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-23 19:22:07.099 [main] {} 1 INFO  org.apache.catalina.core.StandardService (o.a.j.l.DirectJDKLog.log) - Starting service [Tomcat]
+2025-02-23 19:22:07.099 [main] {} 1 INFO  org.apache.catalina.core.StandardEngine (o.a.j.l.DirectJDKLog.log) - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-02-23 19:22:07.118 [main] {} 1 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] (o.a.j.l.DirectJDKLog.log) - Initializing Spring embedded WebApplicationContext
+2025-02-23 19:22:07.118 [main] {} 1 INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext (o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext) - Root WebApplicationContext: initialization completed in 440 ms
+2025-02-23 19:22:07.325 [main] {} 1 INFO  org.apache.coyote.http11.Http11NioProtocol (o.a.j.l.DirectJDKLog.log) - Starting ProtocolHandler ["http-nio-8080"]
+2025-02-23 19:22:07.332 [main] {} 1 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer (o.s.b.w.e.t.TomcatWebServer.start) - Tomcat started on port 8080 (http) with context path '/'
+2025-02-23 19:22:07.338 [main] {} 1 INFO  xyz.vvrf.sci.SciApplication (o.s.b.StartupInfoLogger.logStarted) - Started SciApplication in 0.834 seconds (process running for 1.207)
